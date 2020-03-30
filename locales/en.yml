@@ -10,30 +10,7 @@ en:
   settings_button: Settings button
   home_button: Home button
   webos2: WEBOS 2
-  webos2_setup: "Setup the language, country, and the timezone of your shop\n
-                Please note the time setup is very important"
-  webos2_advanced: "Press the SETTINGS button, and go to the advanced menu "
-  webos2_network: "Go to NETWORK and choose your desired internet connection type"
-  webos2_warning: "You won't be able to install our application if you do not have an internet connection \n \n Do not connect your screen to a guest Wifi network: it might not have enough permission to allow for optimal functionning"
-  webos2_wired: "Wired Connection \n
-                If you are connected to the internet with a RJ45 cable, the following menu (Wired Connection) will show the name of the network. If you are setup with a DHCP network, let it run automatically \n
-                Otherwise, click on MODIFY, uncheck DEFINE AUTOMATICALLY, and enter the required data (Ip adress, gateway, etc etc)"
-  webos2_wifi: "Wifi Connection\n
-                Select 'Wifi Connection'. Choose the network, and enter its password"
-  webos2_hidden: "Open the hidden menu by pressing on the SETTINGS button until until a bubble appears on the top right corner \n
-                Quickly press 4 times the button 0, and press OK"
-  webos2_params: "Adjust the following parameters \n
-                AUTO POWER = OFF \n
-                SPEAKER = OFF"
-  webos2_application: "Go to APPLICATIONS and uncheck all cases (see picture)"
-  webos2_advanced_network: "In the SETTINGS menu, go to Advanced NEtwork Configuration"
-  webos2_app_params: "Adjust the following parameters \n
-                => Application Launch Mode = LOCAL \n
-                => Fully Qualified Domain name = ON \n
-                => Enter this URL 'http://webos.deepidoo.com/dj/ipk' \n
-                => Application Type = IPK \n
-                => Finally, go to Local Applcation Upgrade, choose REMOTE and press OK, then confirm"
-
+  
   webos3: WEBOS 3
   webos3_step1: 'Setup your language, contient, country and timezone'
   webos3_step2: 'Select OFF regarding the two rotation choices'

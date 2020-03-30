@@ -1,6 +1,13 @@
 fr:
   compatible_screens: Ecrans compatibles
-  screen_search: "Rechercher OS par écran"
+  os_help: "Je ne connais pas mon OS"
+  find_os: "Cliquer sur le bouton Settings \n
+            => Quick Settings \n
+            => General \n
+            => A propos de cet écran \n
+            => webOS TV Version \n \n
+            Mon écran indique la version"
+  none: "Mon OS"
   screen_list: "Ecrans disponibles"
   first_use: Première utilisation de l'écran
   network_setup: Configuration Réseau
@@ -10,31 +17,11 @@ fr:
   settings_button: Bouton SETTINGS
   home_button: Bouton HOME
   webos2: WEBOS 2
-  webos2_setup: "Choisissez votre language, pays, et la timezone de votre site\n
-                Notez que le réglage de l'horloge est fondamental"
-  webos2_advanced: "Appuyez sur le bouton Settings, et allez dans le menu Paramètres Avancés"
-  webos2_network: "Allez dans RESEAU et choisir le type de connextion type"
-  webos2_warning: "Vous ne pourrez pas installer l' application, si votre écran n'est pas relié internet \n \n Ne reliez pas votre écran à un Wifi pour invités (ce genre de réseau n'a pas assez de permissions pour permettre un fonctionnement optimal) "
-  webos2_wired: "Connexion Câblée\n
-                Si vous n'êtes pas sur un réseau avec IP fixes, vous serez connectés automatiquement en branchant votre câble\n
-                Sinon, renseignez les données réseaux indiqués par vore siège ou votre prestataire de service internet"
-  webos2_wifi: "Connexion en Wifi :\n
-                Choisissez le réseau désiré et rentrez son mot de passe"
-  webos2_hidden: "Ouvrir le menu caché en laisant appuyé la touche SETTNGS jusqu'à l'apparition d'une bulle en haut à droite de l'écran \n
-                  Appuyez rapidement 4 fois sur le bouton 0, puis sur OK"
-  webos2_params: "Ajustez les paramètres suivants ainsi \n
-                AUTO POWER = OFF \n
-                SPEAKER = OFF"
-  webos2_application: "Aller dans APPLICATIONS, et décochez toutes les cases"
-  webos2_advanced_network: "Dans le menu REGLAGES, allez dans Paramètres Réseaux Avancés"
-  webos2_app_params: "Ajustez les paramètres suivants ainsi \n
-                => Application Launch Mode = Local \n
-                => Nom de domaine qualifié = ON \n
-                => Entrez cette URL 'http://webos.deepidoo.com/dj/ipk' \n
-                => Application Type = IPK \n
-                => Pour finir, allez dans Local Application Upgrade, choisissez REMOTE. Validez avec OK puis confirmez"
-
+  webos2_settings: "Vérfier toud d'abord que votre écran est bien connecté à internet \n
+                  Appuyez sur le bouton Settings, et allez dans le menu Paramètres Avancés \n"
+  webos2_network: "Allez dans RESEAU et vérifier que l'écran est bien indiqué comme connecté "
   webos3: WEBOS 3
+
   webos3_step1: "Configurez votre langue, continent, pays, et fuseau horaire"
   webos3_step2: "Sélectionnez OFF pour les deux choix de rotation"
   webos3_step3: "Configurez votre connexion internet, Ethernet ou Wifi"
